@@ -1,0 +1,16 @@
+.bg-2{
+	background-image: url(https://openclipart.org/download/293704/countingonfingers.svg);
+	border-image-width: 100%;
+	color: #1abc9c;
+}
+.container-fluid{
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.form-group{
+	padding: 5px;
+}
+button{
+	background-color: #1abc9c;
+	color: #474e5d;
+}
